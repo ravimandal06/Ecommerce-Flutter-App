@@ -51,7 +51,7 @@ class SaleWidget extends StatelessWidget {
                         child: SizedBox(
                           width: double.infinity,
                           child: FittedBox(
-                            fit: BoxFit.fill,
+                            fit: BoxFit.contain,
                             child: Text(
                               "50 %\nOFF",
                               style: TextStyle(
