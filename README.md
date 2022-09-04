@@ -1,6 +1,8 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ravimandal06&theme=blue-green)
 
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 # Ecommerce-Flutter-App
 
 Store API Flutter Ecommerce App
